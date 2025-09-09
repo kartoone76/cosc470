@@ -1,5 +1,5 @@
-notebooks/data
+notebooks/data/**
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
 cifar-10-python.tar.gz
-nn
+nn/**
